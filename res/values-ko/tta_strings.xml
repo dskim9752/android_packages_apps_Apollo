@@ -16,7 +16,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-    <string name="app_name">아폴로 음악 플레이어</string>
+    <string name="app_name">아폴로</string>
 
     <!-- Page titles -->
     <string name="page_recent">최근 재생된 음악</string>
@@ -125,7 +125,7 @@
     <string name="settings_about_apollo">이 앱에 대해서</string>
     <string name="settings_special_thanks">추가 지원</string>
     <string name="settings_cyanogenmod_title">Triangles</string>
-    <string name="settings_self_title">Andrew Neal \nTranslated by LimeOn of Triangles</string>
+    <string name="settings_self_title">Andrew Neal \n\nTranslated by LimeOn of Triangles</string>
     <string name="settings_lopez_title" translatable="false">A.J. Lopez</string>
     <string name="settings_lopez_summary">아이콘 및 플레이 스토어 배너 디자인</string>
     <string name="settings_color_scheme_title">아폴로 기본 색상 설정</string>
@@ -162,7 +162,7 @@
 
     <!-- Empty list / error messages -->
     <string name="no_effects_for_you">이퀄라이저를 열 수 없습니다.</string>
-    <string name="empty_music">컴퓨터로부터 디바이스에 음악을 전송하려면, USB 케이블을 이용하세요.</string>
+    <string name="empty_music">아직 디바이스에 저장된 음악이 없습니다.\n\nUSB 케이블을 이용하여 컴퓨터로부터 음악을 전송하세요.</string>
     <string name="empty_last_added">최근 한달 동안 추가된 음악이 여기 표시됩니다.</string>
     <string name="empty_search">검색된 내용이 없습니다.</string>
     <string name="empty_favorite">즐겨찾기로 추가한 내용이 여기 표시됩니다.</string>
